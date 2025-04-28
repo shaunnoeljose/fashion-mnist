@@ -1,7 +1,5 @@
 # Fashion-MNIST
 
-[![GitHub stars](https://img.shields.io/github/stars/zalandoresearch/fashion-mnist.svg?style=flat&label=Star)](https://github.com/zalandoresearch/fashion-mnist/)
-
 <details><summary>Table of Contents</summary><p>
 
 * [Why we made Fashion-MNIST](#why-we-made-fashion-mnist)
